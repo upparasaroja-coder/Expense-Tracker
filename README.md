@@ -1,17 +1,19 @@
 # Expense-Tracker
  A simple Expense Tracker built using Python
 
- ##Features
+ ## Features
+ 
   - Add Expense
   - View Expenses
   - Calculate Total
   - Menu-driven program
 
-##Technologies Used
+## Technologies Used
+
   -Python
   -File Handling
 
-  ##Example
+  ## Example
   
  ===== Expense Tracker =====
 
